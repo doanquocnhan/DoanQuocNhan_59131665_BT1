@@ -5,8 +5,6 @@
  */
 package doanquocnhan_59131665_59.cntt.pkg2;
 
-import java.util.Scanner;
-
 /**
  *
  * @author Nhan
